@@ -1,0 +1,53 @@
+/* .background{
+  height: 100vh;
+  width: 196vh;
+  display: flex;
+} */
+
+button{
+    background-color: #403D39;
+    color:white;
+    width: 100px;
+    height: 5vh;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10%;
+    
+}
+/* 
+body{
+    background-image: url('https://raw.githubusercontent.com/DevMountain/simulation-3/master/assets/views/helo_redo_auth.png');
+    width: 100vh;
+    height: 100vh;
+    background-size: cover
+    
+}
+
+.username{
+    
+} */
+
+p{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bold;
+    
+    
+}
+
+input{
+    width: 350px;
+    height: 3vh;
+    border-radius: 5%;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    -moz-border-bottom-colors: blue;
+    border-style: groove;  
+    margin-left: 10px;
+   
+}
+
+.box{
+    margin-top: 15%;
+}
